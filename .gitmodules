@@ -1,0 +1,3 @@
+[submodule "part1/models/ImageCaptioning.pytorch"]
+	path = part1/models/ImageCaptioning.pytorch
+	url = https://github.com/deep-learning-with-pytorch/ImageCaptioning.pytorch
