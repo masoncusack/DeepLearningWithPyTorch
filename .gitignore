@@ -4,3 +4,5 @@
 *pycache*
 *.pth
 *.pkl
+*.t
+*.hdf5
