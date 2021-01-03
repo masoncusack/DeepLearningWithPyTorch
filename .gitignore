@@ -7,3 +7,5 @@
 *.t
 *.hdf5
 *data/p1ch4/volumetric-dicom
+*cache
+*part2/data
